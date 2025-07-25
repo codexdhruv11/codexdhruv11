@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kaushik</h1>
-<h3 align="center">I’m a Computer Science undergraduate who builds practical, effective solutions—whether it’s a web application, an automation workflow, or a streamlined system. I focus on making tools simpler, smarter, and more accessible. Continuously learning and exploring, my interests span full-stack development, automation, and emerging AI technologies.</h3>
+<h3 align="center">I’m a Computer Science undergraduate who builds practical, effective solutions whether it’s a web application, an automation workflow, or a streamlined system. I focus on making tools simpler, smarter, and more accessible. Continuously learning and exploring, my interests span full-stack development, automation, and emerging AI technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexdhruv11&label=Profile%20views&color=0e75b6&style=flat" alt="codexdhruv11" /> </p>
 
