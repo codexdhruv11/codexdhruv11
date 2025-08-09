@@ -1,19 +1,59 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kaushik</h1>
-<h3 align="center">I’m a Computer Science undergraduate who builds practical, effective solutions whether it’s a web application, an automation workflow, or a streamlined system. I focus on making tools simpler, smarter, and more accessible. Continuously learning and exploring, my interests span full-stack development, automation, and emerging AI technologies.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexdhruv11&label=Profile%20views&color=0e75b6&style=flat" alt="codexdhruv11" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Interweight=600size=28pause=900color=00C2FFcenter=truevCenter=truewidth=650lines=Hey%2C+I'm+Dhruv+Kaushik+%F0%9F%91%8B;I+build+clean%2C+useful+software.;CS+Undergrad+%7C+Full‑stack+%7C+Automation+%26+AI" alt="Typing intro" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexdhruv11" alt="codexdhruv11" /></a> </p>
+  <p style="max-width:720px">
+    I craft practical tools and experiences with a focus on clarity, performance, and thoughtful design.
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhruvka51949884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvka51949884" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv kaushik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dhruvkaushik__11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhruvkaushik__11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codingfreak11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingfreak11" height="30" width="40" /></a>
-</p>
+  <!-- minimalist social / contact -->
+  <p>
+    <a href="https://twitter.com/dhruvka51949884" target="_blank">
+      <img alt="Twitter" height="24" src="https://img.shields.io/badge/Twitter-000?style=for-the-badgelogo=xlogoColor=fff" />
+    </a>
+    <a href="https://linkedin.com/in/dhruv kaushik" target="_blank">
+      <img alt="LinkedIn" height="24" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badgelogo=linkedinlogoColor=0A66C2" />
+    </a>
+    <a href="https://codeforces.com/profile/dhruvkaushik__11" target="_blank">
+      <img alt="Codeforces" height="24" src="https://img.shields.io/badge/Codeforces-000?style=for-the-badgelogo=codeforceslogoColor=1F8ACB" />
+    </a>
+    <a href="https://www.leetcode.com/codingfreak11" target="_blank">
+      <img alt="LeetCode" height="24" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badgelogo=leetcodelogoColor=F89F1B" />
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+  <!-- animated divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rectheight=1color=gradientreversal=truesection=footer" alt="divider" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexdhruv11&show_icons=true&locale=en&layout=compact" alt="codexdhruv11" /></p>
+
+### What I do
+- Full‑stack web apps with a focus on DX and UX
+- Automation and scripting to remove busy‑work
+- Exploring AI tools to build smarter workflows
+
+
+### Stack I enjoy
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,express,python,cpp,git,github,html,css,sass,tailwind,mongodb,postgres,redis,docker&perline=9" alt="Tech stack icons" />
+</div>
+
+
+### Current focus
+- Shipping small, useful projects regularly
+- Writing cleaner, composable components
+- Performance‑first APIs and data flows
+
+
+### Minimal stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codexdhruv11&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexdhruv11&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</div>
+
+
+<!-- Footer wave (subtle accent) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00C2FF,100:6A00FF&section=footer" alt="footer wave" />
+</div>
